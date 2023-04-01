@@ -8,14 +8,14 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/obed-tc/obed-tc?label=Last%20commit&logo=github&style=flat-square">
   
 </div>
----
-### Sobre mi :
-- Correo: **castroobed53@gmail.com**
+
 <div align="left">
   <h3>⚡ Lenguajes y herramientas</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="android" width="40" height="40"/>
   &nbsp;
 </div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=obed-tc&theme=windows-dark&hide_border=true&border_radius=4.1&locale=es&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 <!--
 **obed-tc/obed-tc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
