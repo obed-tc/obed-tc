@@ -25,9 +25,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obed-tc&hide_progress=true&bg_color=00000000&hide_border=true&locale=es" />
 </a>
   <br>
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=obed-tc&theme=android-dark&hide_border=true&locale=es" />
-</a>
+
 </div>
 
 
