@@ -1,7 +1,9 @@
 <div>
-  hola
- </div>
-### Hi there 👋
+  <img src="https://giphy.com/gifs/tecnocorp-tecnologia-tecnocorptecnologia-ti-osasco-lQDdDwdZpfYRn1MsJy" width=200/>
+  <h1 align="center">Hola👋, soy obed</h1>
+  <h3></h3>
+</div>
+
 
 <!--
 **obed-tc/obed-tc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
