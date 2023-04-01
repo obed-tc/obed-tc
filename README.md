@@ -13,6 +13,9 @@
   <h3>⚡ Lenguajes y herramientas</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="android" width="40" height="40"/>
   &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="android" width="40" height="40"/>
+  &nbsp;
+  
 </div>
 <br><br>
 
