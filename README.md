@@ -1,7 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80"/>
   <h1 align="center">Hola👋, soy obed</h1>
   <h3></h3>
+</div>
+
+<div id="badges" align="center">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/obed-tc/obed-tc?label=Last%20commit&logo=github&style=flat-square">
+  
 </div>
 
 
