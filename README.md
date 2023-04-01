@@ -15,10 +15,7 @@
   &nbsp;
 </div>
 ---
-<div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=obed-tc&theme=android-dark&hide_border=true&locale=es)](https://git.io/streak-stats)
-</div>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=obed-tc&theme=android-dark&hide_border=true&locale=es)](https://git.io/streak-stats)
 <!--
 **obed-tc/obed-tc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
