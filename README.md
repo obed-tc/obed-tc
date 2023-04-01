@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80"/>
-  <h1 align="center">Hola👋, soy obed</h1>
+  <h1 align="center">Hola👋</h1>
   <h3></h3>
 </div>
 
@@ -14,8 +14,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="android" width="40" height="40"/>
   &nbsp;
 </div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=obed-tc&theme=windows-dark&hide_border=true&border_radius=4.1&locale=es&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+---
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=obed-tc&theme=android-dark&hide_border=true&locale=es)](https://git.io/streak-stats)
+</div>
 
 <!--
 **obed-tc/obed-tc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
