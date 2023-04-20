@@ -1,9 +1,9 @@
-<div id="header" align="center">
+
+<img src="https://i.postimg.cc/DZHKByd8/portadagithub.jpg" alt="Fondo con gradiente" title="Fondo bonito" height="190" width="100%"/>
+<div class="header"  style="background: rgb(141,108,11);background: radial-gradient(circle, rgba(141,108,11,1) 0%, rgba(67,28,1,1) 100%);" align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80"/>
-  <h1 align="center">Hola👋</h1>
   <h3></h3>
 </div>
-
 <div id="badges" align="center">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/obed-tc/obed-tc?label=Last%20commit&logo=github&style=flat-square">
   
