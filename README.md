@@ -1,5 +1,5 @@
 
-<img src="https://i.postimg.cc/DZHKByd8/portadagithub.jpg" alt="Fondo con gradiente" title="Fondo" width="100%"/>
+<img src="https://i.postimg.cc/NjHbHGLd/portadagithub.jpg" alt="Fondo con gradiente" title="Fondo" width="100%"/>
 <div class="header"  style="background: rgb(141,108,11);background: radial-gradient(circle, rgba(141,108,11,1) 0%, rgba(67,28,1,1) 100%);" align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80"/>
   <h3></h3>
