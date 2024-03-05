@@ -39,10 +39,15 @@
 
 
 
+
+
+<div  style="" align="center">
+  <img src="./CodeGif.gif" width="600"/>
+</div>
+
 ## ❤  Followers: 
 
 <a href="https://github.com/obed-tc?tab=followers"><img src="https://img.shields.io/github/followers/obed-tc?label=Followers&style=social" alt="GitHub Badge"></a>
-
 
 ## Connect with me:
 <div style="display: flex; justify-content: space-around; align-items: center;">
@@ -51,3 +56,4 @@
     <a href="https://www.instagram.com/obed717/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram icon"></a>
     <a href="https://www.youtube.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube icon"></a>
 </div>
+
