@@ -86,7 +86,6 @@
 <div  style="" align="left">
   <img src="https://media2.giphy.com/media/wwg1suUiTbCY8H8vIA/200w.gif?cid=6c09b952t6d86gm1n3gy98q39pj11hunpb7n205xjw8hsw1m&ep=v1_gifs_search&rid=200w.gif&ct=g" width="200"/>
   
-  <img src="https://media4.giphy.com/media/S79HXrghNKwYAFivno/giphy.gif?cid=6c09b952ydg86wy0bked7ulbsrlpsc0hebsgo336vz0j0f5v&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="200"/>
   
 </div>
 
@@ -94,6 +93,9 @@
 ## ❤  Followers: 
 
 <a href="https://github.com/obed-tc?tab=followers"><img src="https://img.shields.io/github/followers/obed-tc?label=Followers&style=social" alt="GitHub Badge"></a>
+<div  style="" align="left">
+  <img src="https://media4.giphy.com/media/S79HXrghNKwYAFivno/giphy.gif?cid=6c09b952ydg86wy0bked7ulbsrlpsc0hebsgo336vz0j0f5v&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="200"/>
+</div>
 
 ## Connect with me:
 <div style="display: flex; justify-content: space-around; align-items: center;">
