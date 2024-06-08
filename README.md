@@ -151,7 +151,6 @@ position: fixed;
 inset:0;
 width: 100%;
 opacity: 0.5;
-filter: brightness(0.8) blur(10px);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
