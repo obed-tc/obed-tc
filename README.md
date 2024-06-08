@@ -152,6 +152,6 @@ inset:0;
 width: 100%;
 opacity: 0.5;
 filter: brightness(0.5) blur(10px);
-background-image: url('https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p2aGJ4MXJ5djBuY3BxdzBrcGRnemo3amx0am5qOWtidGprZnJkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqimU9dTwmE5lra/giphy.gif');
+background-image: url('https://raw.githubusercontent.com/obed-tc/obed-tc/main/prueba2.gif');
 "]{}
 ```
