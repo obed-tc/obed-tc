@@ -152,6 +152,6 @@ inset:0;
 width: 100%;
 opacity: 0.5;
 filter: brightness(0.5) blur(10px);
-background-image: url('https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3l1bTF3bThqcW9vOGhlZGxhMWN6anoyZmhvaHM5bmFxMHMyaWtyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHWbXcpeKhTktXi/giphy.gif?raw=true');
+background-image: url('https://github.com/vys69/vys69/blob/main/ezgif-2-45a20cad34.gif?raw=true');
 "]{}
 ```
