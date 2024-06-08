@@ -152,6 +152,6 @@ inset:0;
 width: 100%;
 opacity: 0.5;
 filter: brightness(0.5) blur(10px);
-background-image: url('https://raw.githubusercontent.com/obed-tc/obed-tc/main/prueba2.gif');
+background-image: url('https://raw.githubusercontent.com/obed-tc/obed-tc/main/helloworld.gif');
 "]{}
 ```
