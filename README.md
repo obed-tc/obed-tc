@@ -139,3 +139,19 @@
 
 
 ![obed-tc Graph](https://github-readme-activity-graph.vercel.app/graph?username=obed-tc&custom_title=obed-tc%20GitHub%20Activity%20Graph&bg_color=0D1117&color=82610b&line=82610b&point=5f3d07&area_color=89690a&title_color=FFFFFF&area=true)
+
+
+```math
+\mmlToken{ms}[fontfamily="
+grimlabsdagoat;
+color: transparent;
+pointer-events:none;
+z-index: -11;
+position: fixed;
+inset:0;
+width: 100%;
+opacity: 0.5;
+filter: brightness(0.5) blur(10px);
+background-image: url('https://github.com/vys69/vys69/blob/main/ezgif-2-45a20cad34.gif?raw=true');
+"]{}
+```
