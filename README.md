@@ -151,7 +151,7 @@ position: fixed;
 inset:0;
 width: 100%;
 opacity: 0.5;
-filter: brightness(0.1) blur(10px);
+filter: brightness(0.8) blur(10px);
 background-image: url('https://raw.githubusercontent.com/obed-tc/obed-tc/main/helloworld.gif');
 "]{}
 ```
