@@ -154,6 +154,6 @@ opacity: 0.5;
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
-background-image: url('https://raw.githubusercontent.com/obed-tc/obed-tc/main/prueba2.gif');
+background-image: url('https://raw.githubusercontent.com/obed-tc/obed-tc/main/Background.gif');
 "]{}
 ```
