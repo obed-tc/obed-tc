@@ -113,17 +113,15 @@ https://muskanrani.github.io/Portfolio/
   </a>
 </p>
 
+![obed-tc Graph](https://github-readme-activity-graph.vercel.app/graph?username=obed-tc&custom_title=obed-tc%20GitHub%20Activity%20Graph&bg_color=0D1117&color=82610b&line=82610b&point=5f3d07&area_color=89690a&title_color=FFFFFF&area=true)
+
+
 <a> 
     <a href="https://github.com/obed-tc"><img alt="Obed-tc Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=obed-tc&show_icons=true&count_private=true&theme=solarized-dark&border_color=82610b&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/obed-tc"><img alt="Obed-tc Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=obed-tc&langs_count=8&layout=compact&theme=solarized-dark&border_color=82610b&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-
-![obed-tc Graph](https://github-readme-activity-graph.vercel.app/graph?username=obed-tc&custom_title=obed-tc%20GitHub%20Activity%20Graph&bg_color=0D1117&color=82610b&line=82610b&point=5f3d07&area_color=89690a&title_color=FFFFFF&area=true)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=obed-tc&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
