@@ -73,7 +73,7 @@
 <a href="https://github.com/obed-tc?tab=followers"><img src="https://img.shields.io/github/followers/obed-tc?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <h2><img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> See my portfolio </h2>
-https://muskanrani.github.io/Portfolio/
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
 <h3>Or you can scan this QR Code 👇🏻</h3>
