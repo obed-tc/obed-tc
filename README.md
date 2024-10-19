@@ -7,7 +7,7 @@
   <samp>
     <a href="https://www.google.com/search?q=obed-tc">「 Google Me 」</a>
     <br>
-    「 I am a fronted web application developer from <b>Bolivia</b> 」
+    「 I am a software developer from <b>Bolivia</b> 」
     <br>
     <br>
   </samp>
@@ -57,27 +57,7 @@
 
 ## Use To Code
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=flat&logo=Ionic&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 <br><br>
 
 ##  📈  Visitor Count: 
@@ -85,17 +65,19 @@
 
 <div  style="" align="left">
   <img src="https://media2.giphy.com/media/wwg1suUiTbCY8H8vIA/200w.gif?cid=6c09b952t6d86gm1n3gy98q39pj11hunpb7n205xjw8hsw1m&ep=v1_gifs_search&rid=200w.gif&ct=g" width="200"/>
-  
-  
 </div>
 
 
 ## ❤  Followers: 
 
 <a href="https://github.com/obed-tc?tab=followers"><img src="https://img.shields.io/github/followers/obed-tc?label=Followers&style=social" alt="GitHub Badge"></a>
-<div  style="" align="left">
-  <img src="https://media4.giphy.com/media/S79HXrghNKwYAFivno/giphy.gif?cid=6c09b952ydg86wy0bked7ulbsrlpsc0hebsgo336vz0j0f5v&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="200"/>
-</div>
+
+<h2><img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> See my portfolio </h2>
+https://muskanrani.github.io/Portfolio/
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
+<h3>Or you can scan this QR Code 👇🏻</h3>
+<img src="https://github.com/muskanrani/muskanrani/blob/master/qrcode_muskanrani.github.io.png"  style="width: 20%" />
 
 ## Connect with me:
 <div style="display: flex; justify-content: space-around; align-items: center;">
@@ -109,8 +91,8 @@
 ## Top Open Source -
 [![CaptureEase](https://github-readme-stats.vercel.app/api/pin/?username=obed-tc&repo=CaptureEase&border_color=82610b&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=82610b)](https://github.com/obed-tc/CaptureEase)
 [![tres-en-raya](https://github-readme-stats.vercel.app/api/pin/?username=obed-tc&repo=tres-en-raya&border_color=82610b&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=82610b)](https://github.com/obed-tc/tres-en-raya)
-[![TimeMaster](https://github-readme-stats.vercel.app/api/pin/?username=obed-tc&repo=TimeMaster&border_color=82610b&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=82610b)](https://github.com/obed-tc/TimeMaster)
-[![Windows-XP-clone](https://github-readme-stats.vercel.app/api/pin/?username=obed-tc&repo=Windows-XP-clone&border_color=82610b&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=82610b)](https://github.com/obed-tc/Windows-XP-clone)
+[![black-jack](https://github-readme-stats.vercel.app/api/pin/?username=obed-tc&repo=black-jack&border_color=82610b&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=82610b)](https://github.com/obed-tc/black-jack)
+[![NodeClear](https://github-readme-stats.vercel.app/api/pin/?username=obed-tc&repo=NodeClear&border_color=82610b&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=82610b)](https://github.com/obed-tc/NodeClear)
 
 <p align="left">
   <a href="https://github.com/obed-tc?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -140,4 +122,10 @@
 
 ![obed-tc Graph](https://github-readme-activity-graph.vercel.app/graph?username=obed-tc&custom_title=obed-tc%20GitHub%20Activity%20Graph&bg_color=0D1117&color=82610b&line=82610b&point=5f3d07&area_color=89690a&title_color=FFFFFF&area=true)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=obed-tc&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:ff8f00,100:ffc500&section=footer&reversal=true&textBg=false"/>
+</p>
