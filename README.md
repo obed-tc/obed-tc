@@ -111,7 +111,7 @@ https://obed.pages.dev/
 
 <a> 
     <a href="https://github.com/obed-tc"><img alt="Obed-tc Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=obed-tc&show_icons=true&count_private=true&theme=solarized-dark&border_color=82610b&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/obed-tc"><img alt="Obed-tc Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=obed-tc&langs_count=8&layout=compact&theme=solarized-dark&border_color=82610b&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/obed-tc"><img alt="Obed-tc Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=obed-tc&langs_count=12&layout=compact&theme=solarized-dark&border_color=82610b&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
