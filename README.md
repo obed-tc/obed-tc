@@ -115,6 +115,7 @@ https://obed.pages.dev/
   <br/>
 </a>
 
+
 <div style="display: flex; justify-content: space-around; align-items: center;" align="center">
   <h1>
 Connect with me:
@@ -123,6 +124,14 @@ Connect with me:
     <a href="https://twitter.com/ObedCT_" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter icon"></a>
     <a href="https://www.instagram.com/obed717/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram icon"></a>
     <a href="https://www.youtube.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube icon"></a>
+</div>
+
+<div  align="center">
+  <a href="https://buymeacoffee.com/castroobed9" target="_blank">
+    <img src="https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png" height="40px">    
+  </a>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/b8ef5351-8de9-4534-b46a-f14d01ba24bc" height="140px"> 
 </div>
 
 
